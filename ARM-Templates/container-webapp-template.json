@@ -3,11 +3,11 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "webAppName": {
-            "defaultValue": "<prefix>devops-dev",
+            "defaultValue": "vinijdevops-dev",
             "type": "String"
         },
         "hostingPlanName": {
-            "defaultValue": "<prefix>devops-asp",
+            "defaultValue": "vinijdevops-asp",
             "type": "String"
         },
         "appInsightsLocation": {
@@ -15,7 +15,7 @@
             "type": "String"
         },
         "appInsightsName": {
-            "defaultValue": "<prefix>devops-ai",
+            "defaultValue": "vinijdevops-ai",
             "type": "String"
         },        
         "sku": {
@@ -23,11 +23,11 @@
             "type": "String"
         },
         "registryName": {
-            "defaultValue": "<prefix>devopsreg",
+            "defaultValue": "vinijdevopsreg",
             "type": "String"
         },
         "imageName": {
-            "defaultValue": "<prefix>devopsimage",
+            "defaultValue": "vinijdevopsimage",
             "type":"String"
         },
         "registryLocation": {
